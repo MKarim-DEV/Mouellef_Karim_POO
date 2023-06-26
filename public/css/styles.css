@@ -1,0 +1,15 @@
+* {
+    font-family: 'Montserrat', sans-serif
+}
+body {
+  background-image: url("http://localhost:8080/php_cours/exam_poo_moto/public/templates/background.png");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 100vh; /* Ajustez cette valeur en fonction de vos besoins */
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+
